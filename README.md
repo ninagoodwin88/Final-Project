@@ -1,6 +1,6 @@
-# Final-Project
+# City of Chicago Violent Crime Viewer
 Visual Studio, Postgres SQL, R+, JavaScript
-# City of Chicago Crime Precentages
+
 
 ## Selected Topic
 ### Analyzing crime data in Chicago based off of latitude and longtitude
