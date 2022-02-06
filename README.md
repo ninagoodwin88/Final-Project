@@ -13,6 +13,7 @@ Visual Studio, Postgres SQL, HTML
 Websites referenced for data were:
 
 https://data.cityofchicago.org/Public-Safety/Arrests/dpt3-jri9/data
+
 https://www.chicago.gov/city/en/dataset/crime.html
 
 - For the sake of our analysis, we will only use data from 2021.
