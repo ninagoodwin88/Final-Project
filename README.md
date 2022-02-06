@@ -1,23 +1,37 @@
-# City of Chicago Violent Crime Viewer
-Visual Studio, Postgres SQL, R+, JavaScript
-
+# Most Dangerous Wards in Chicago
+Visual Studio, Postgres SQL, HTML
 
 ## Selected Topic
-### Analyzing crime data in Chicago based off of latitude and longtitude
-- Using a variety of tools, we will view the precentage of arrests rates based on certain areas throughout and the city, and what age group is most likely to commit an be arrested for a violent crime in certain areas of the city.
+- Analyzing crime data in Chicago based off amount of arrests in different wards throughout the city of Chicago.
+
 ## Reason for Selecting Topic
-- I want to build an interactive page that will allow the user to enter their latitude and longitude coordinates and be able to view the violent crime percentages in the city of Chicago.
+- The project is to create a web page that will allow the user to see the most dangerous wards in the city of Chicago.
 - This information can be used by the native Chicagoan or tourist to decide where to patronize any establishment or where to possibly purchase or invest in real estate in Chicago.
+- Chicago PD will also be able to utilize the data to know which wards need a heavier police presence.
 
 ## Description of the Source Data
 Websites referenced for data were:
 https://data.cityofchicago.org/Public-Safety/Arrests/dpt3-jri9/data
 https://www.chicago.gov/city/en/dataset/crime.html
-- For the sake of our analysis, we will only use data from 2015-2020.
-- These websites provide access to case numbers, arrests, crime descriptions, and latitude and longitude of committed crimes.
+- For the sake of our analysis, we will only use data from 2021.
+- These websites provide access to case arrests, crime descriptions, and wards of committed crimes.
 
 
 ## Questions we hope to answer with the data
-- What are the age groups that have the highest violent crime rate?
-- In what location in the city of Chicago are violent crimes most likely to occur? 
-- What are the percentages of violent crimes in Chicago?
+- Given all these crimes which wards grouped together are dangerous?
+- Which wards have the highest arrest rates.
+
+## Tools
+- Creating Database
+    - Pandas
+    
+- Analyzing Data
+    - Postgres SQL
+
+- Machine Learning
+    - Logical Regression
+    - sklearn
+    
+- Dashboard
+    - HTML
+
