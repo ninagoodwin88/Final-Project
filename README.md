@@ -1,11 +1,10 @@
-# Most Dangerous Wards in Chicago
+# Chicago Arrest Analysis
 Visual Studio, Postgres SQL, HTML
 
 ## Selected Topic
-- Analyzing crime data in Chicago based off amount of arrests in different wards throughout the city of Chicago.
+- Analyzing crimes in the city of Chicago and whether they result in an arrest.
 
 ## Reason for Selecting Topic
-- The project is to understand whether crimes in the city of Chicago result in arrests or not.
 - This information can be used by the native Chicagoan or tourist to decide where to patronize any establishment or where to possibly purchase or invest in real estate in Chicago.
 - Chicago PD will also be able to utilize the data to know which wards need a heavier police presence.
 
