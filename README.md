@@ -5,7 +5,7 @@ Visual Studio, Postgres SQL, HTML
 - Analyzing crime data in Chicago based off amount of arrests in different wards throughout the city of Chicago.
 
 ## Reason for Selecting Topic
-- The project is to create a web page that will allow the user to see the most dangerous wards in the city of Chicago.
+- The project is to understand whether crimes in the city of Chicago result in arrests or not.
 - This information can be used by the native Chicagoan or tourist to decide where to patronize any establishment or where to possibly purchase or invest in real estate in Chicago.
 - Chicago PD will also be able to utilize the data to know which wards need a heavier police presence.
 
