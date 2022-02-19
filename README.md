@@ -1,6 +1,9 @@
 # Chicago Arrest Analysis
 Visual Studio, Postgres SQL, HTML
 
+## Dashboard
+[https://github.com/ninagoodwin88/Final-Project/blob/main/docs/index.html]
+
 ## Selected Topic
 - Analyzing crimes in the city of Chicago and whether they result in an arrest.
 
