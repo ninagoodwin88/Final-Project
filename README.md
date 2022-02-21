@@ -44,12 +44,11 @@ https://www.chicago.gov/city/en/dataset/crime.html
 - The preliminary data includes columns that describe the environment of crime various crimes in the city of Chicago. These features include the primary description of the crime, whether it resulted in an arrest, the ward, and whether the crime was domestic.
 - After connecting to the database, the header was printed for each column to see all of the features available. The features that were chosen were the ones believed to have had the highest correlation with crime and whether those crimes resulted in an arrest or not.
 - The data was split into training and test data using the train_test_split function. The default 75% to 25% split.
-- After careful analyzing, it was determined that the logistic regression train model yielded 87% correlation and the training model yielded 87% correlation. This means our model could only accurately predict whether a crime resulted in an arrest or not 87% of the time. 
-- A value count in Pandas of all the wards indicated that most crimes do not result in arrest.
+- After careful analyzing, it was determined that the logistic regression train model yielded 87% correlation and the training model yielded 87% correlation. After performing a precision test the model only accurately predicte arrests 50% accurately.  
+- A count of the data indicated that the data was skewed and a RandomOverSampler was performed and the accuracy rate was 64%. The precision was over 75% for non arrests but was only 22% for actual arrests
+- The best model for accuracy was the logistic model at 85% and the precision rate for accuracy for non arrests were 85%, however both models had a low percentage of precision for arrests rates. 
 
 ## Presentation
-- Whether crimes end in arrest may be important data as it could point to police acting more as peace keepers of the citizens of Chicago, issuing citations instead of arrests. This data could also help indicate were a stronger police presence may be needed.
-(still working on this)
+- [https://docs.google.com/presentation/d/e/2PACX-1vTeg0AYQfqqz68dlHoZLJnF8xv0PkSyeNzfZok_SqFdjmw8OUGrJIFs6HuyM_ezC0HDhEhnpLEDYwwR/pub?start=false&loop=false&delayms=3000
+]
 
-## Dashboard
-(still working on this)
